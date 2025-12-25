@@ -1,0 +1,101 @@
+[
+  [
+    {
+      "a": 7
+    },
+    "Esc",
+    "<i class='kb kb-Multimedia-Play-Pause'></i>",
+    "<i class='kb kb-Multimedia-Mute-2'></i>",
+    "<i class='kb kb-Multimedia-Volume-Down-2'></i>",
+    "<i class='kb kb-Multimedia-Volume-Up-2'></i>",
+    "<i class='fa fa-tv'></i>",
+    "<i class='fa fa-power-off'></i>",
+    "Insert",
+    "Delete",
+    "<i class='fa fa-arrow-left'></i>"
+  ],
+  [
+    {
+      "a": 5
+    },
+    "_\n-",
+    "+\n=",
+    "{\n[",
+    "}\n]",
+    "|\n\\",
+    ":\n;",
+    "\"\n'",
+    "<\n,",
+    ">\n.",
+    "?\n/"
+  ],
+  [
+    "!\n1",
+    "@\n2",
+    "#\n3",
+    "$\n4",
+    "%\n5",
+    "^\n6",
+    "&\n7",
+    "*\n8",
+    "(\n9",
+    ")\n0"
+  ],
+  [
+    {
+      "a": 7
+    },
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P"
+  ],
+  [
+    "Tab",
+    "A",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L"
+  ],
+  [
+    "Shift",
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    "<i class='fa fa-arrow-up'></i>",
+    {
+      "a": 5
+    },
+    "?\n/"
+  ],
+  [
+    {
+      "a": 7
+    },
+    "Ctrl",
+    "WIN",
+    "Alt",
+    "Fn",
+    "",
+    "UP",
+    "DOWN",
+    "<i class='fa fa-arrow-left'></i>",
+    "<i class='fa fa-arrow-down'></i>",
+    "<i class='fa fa-arrow-right'></i>"
+  ]
+]
